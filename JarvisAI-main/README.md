@@ -20,7 +20,7 @@ JARVIS is a simple voice-controlled virtual assistant built with JavaScript, usi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Vijaykalyan23/JarvisAI.git
+    git clone https://github.com/Mandadri/Jarvis-Ai.git
     ```
 
 2. Open `index.html` in your browser.
